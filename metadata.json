@@ -1,0 +1,6 @@
+{
+  "name": "THOR: God of Thunder",
+  "description": "An ultra-detailed 3D open world action adventure game where you wield Mjölnir, fly through Asgard, summon thunder, and battle Frost Giants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
